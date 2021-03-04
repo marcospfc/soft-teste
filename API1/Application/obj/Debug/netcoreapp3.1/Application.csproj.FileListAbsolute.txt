@@ -1,0 +1,13 @@
+C:\Users\marco\source\repos\Soft000\API1\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\marco\source\repos\Soft000\API1\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\marco\source\repos\Soft000\API1\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\marco\source\repos\Soft000\API1\Application\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\marco\source\repos\Soft000\API1\Application\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\marco\source\repos\Soft000\API1\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\Soft000\API1\Application\obj\Debug\netcoreapp3.1\RefitStubs.g.cs
+C:\Users\marco\source\repos\Soft000\API1\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Soft000\API1\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\marco\source\repos\Soft000\API1\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Soft000\API1\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\marco\source\repos\Soft000\API1\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\marco\source\repos\Soft000\API1\Application\obj\Debug\netcoreapp3.1\Application.pdb

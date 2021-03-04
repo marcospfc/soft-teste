@@ -1,0 +1,15 @@
+C:\Users\marco\source\repos\Soft000\API1\CamadaCross\bin\Debug\netcoreapp3.1\Cross.deps.json
+C:\Users\marco\source\repos\Soft000\API1\CamadaCross\bin\Debug\netcoreapp3.1\Cross.dll
+C:\Users\marco\source\repos\Soft000\API1\CamadaCross\bin\Debug\netcoreapp3.1\Cross.pdb
+C:\Users\marco\source\repos\Soft000\API1\CamadaCross\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\marco\source\repos\Soft000\API1\CamadaCross\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\marco\source\repos\Soft000\API1\CamadaCross\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\marco\source\repos\Soft000\API1\CamadaCross\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\marco\source\repos\Soft000\API1\CamadaCross\obj\Debug\netcoreapp3.1\Cross.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\Soft000\API1\CamadaCross\obj\Debug\netcoreapp3.1\RefitStubs.g.cs
+C:\Users\marco\source\repos\Soft000\API1\CamadaCross\obj\Debug\netcoreapp3.1\Cross.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Soft000\API1\CamadaCross\obj\Debug\netcoreapp3.1\Cross.AssemblyInfo.cs
+C:\Users\marco\source\repos\Soft000\API1\CamadaCross\obj\Debug\netcoreapp3.1\Cross.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Soft000\API1\CamadaCross\obj\Debug\netcoreapp3.1\Cross.csproj.CopyComplete
+C:\Users\marco\source\repos\Soft000\API1\CamadaCross\obj\Debug\netcoreapp3.1\Cross.dll
+C:\Users\marco\source\repos\Soft000\API1\CamadaCross\obj\Debug\netcoreapp3.1\Cross.pdb

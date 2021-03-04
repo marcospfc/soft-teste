@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQRTbYU0vKMeDz3L18fvDOsPV4WdBPz0WwCrq++3AYMziRSCKXx37bZaARNQiAIo8yrzUT05KE/MswuM3ojwbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marco\\source\\repos\\Soft000\\API2\\infra\\infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
